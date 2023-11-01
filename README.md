@@ -9,7 +9,6 @@
 
 4. Pricing Analysis: Analyzed the highest-priced items under the 'Recommended' menu category for each restaurant and identified the top 5 most expensive restaurants offering cuisines other than Indian, helping in pricing and competitor analysis.
 
-By including these insights in bullet points on your resume, you can showcase your ability to derive valuable information from data to support business decision-making.
 ![image](https://github.com/utkgpta/Swiggy_Data_Analysis/assets/149560414/c3a5d4d6-541e-47ea-9b98-2cce0860c9d2)
 ![image](https://github.com/utkgpta/Swiggy_Data_Analysis/assets/149560414/50d92caa-b76d-4d3d-9c59-152d416fe0ee)
 ![image](https://github.com/utkgpta/Swiggy_Data_Analysis/assets/149560414/fe4fe148-b727-4400-b5a5-d4a0aeb00142)
